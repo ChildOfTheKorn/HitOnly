@@ -2,6 +2,14 @@
 
 A Beat Saber **Quest** mod (game version **1.40.8**) that shows your accuracy based only on the notes you actually cut. Misses, bad cuts, bombs and the combo multiplier are ignored. Display only: it never changes your score or anything sent to BeatLeader or ScoreSaber.
 
+## Install
+
+1. Download [`HitOnly.qmod`](https://github.com/ChildOfTheKorn/HitOnly/releases/latest/download/HitOnly.qmod) (or pick a version from the [releases page](https://github.com/ChildOfTheKorn/HitOnly/releases)).
+2. Open it with **QuestPatcher** or **ModsBeforeFriday** and install it.
+3. Restart Beat Saber.
+
+See [Requirements](#requirements) for the game version and dependencies.
+
 ## What it shows
 
 **During the song**, as a floating label above the track:
@@ -34,12 +42,6 @@ Your friends never see any of it. It's only drawn in your own game.
 
 - Beat Saber 1.40.8 on Quest, modded with Scotland2 (QuestPatcher or ModsBeforeFriday)
 - Dependencies, normally already installed: `beatsaber-hook`, `custom-types`, `bsml`, `paper2_scotland2`
-
-## Install
-
-1. Download `HitOnly.qmod`.
-2. Open it with **QuestPatcher** or **ModsBeforeFriday** and install it.
-3. Restart Beat Saber.
 
 ## Settings
 
